@@ -9,4 +9,4 @@ Debug:
 If you get 500 Error, execute the following commands:
   - cd /var/apache2/
   - tail -f error
-  If the last response has ".htaccess", look for the said directory and remove the .htaccess file
+  If the last response has ".htaccess," look for the said directory and remove the .htaccess file
