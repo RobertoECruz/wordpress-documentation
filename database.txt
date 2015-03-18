@@ -1,0 +1,9 @@
+This file serves the sole purpose of instructing you how to create a wordpress database.
+1) mysql -u adminusername -p
+2) type adminusername password
+3) CREATE DATABASE databassename;
+4) GRANT ALL PRIVILEGES ON databasename.* TO "wordpressusername"@hostname" IDENTIFIED BY "password";
+5) FLUSH PRIVILEGES
+6) EXIT
+7) Log back in with user you create
+8) USE TABLE databasename
