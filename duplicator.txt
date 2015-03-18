@@ -3,3 +3,10 @@ These files will be used to deploy to the website in case of database/plugin/oth
 In addition to this, this folder also instructs you how to use the Duplicator plugin for Wordpress.
 1) Install the Duplicator plugin
 2) install the installer (installer.php) and archive file (package.zip)
+
+Debug:
+
+If you get 500 Error, execute the following commands:
+  - cd /var/apache2/
+  - tail -f error
+  If the last response has ".htaccess", look for the said directory and remove the .htaccess file
