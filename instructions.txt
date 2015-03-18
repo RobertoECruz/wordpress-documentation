@@ -1,0 +1,5 @@
+This folder exists for the sole purpose of backing up the Designer Lost company website.
+These files will be used to deploy to the website in case of database/plugin/other issues.
+In addition to this, this folder also instructs you how to use the Duplicator plugin for Wordpress.
+1) Install the Duplicator plugin
+2) install the installer (installer.php) and archive file (package.zip)
