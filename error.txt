@@ -1,0 +1,2 @@
+When facing a error simply view the error log located at var/log/apache2/error.log
+Google these errors to see where your website is broking and how to fix it
