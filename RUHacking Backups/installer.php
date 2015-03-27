@@ -101,9 +101,9 @@ $GLOBALS['REPLACE_LIST']
 $GLOBALS['FW_TABLEPREFIX'] = 'wp_';
 $GLOBALS['FW_URL_OLD'] = 'http://ruhacking.me';
 $GLOBALS['FW_URL_NEW'] = '';
-$GLOBALS['FW_PACKAGE_NAME'] = '20150318_ruhacking_5509c6e6078992090150318184142_archive.zip';
+$GLOBALS['FW_PACKAGE_NAME'] = '20150327_whathaveyoubeenworkingon_5514f620b9c3e8636150327061808_archive.zip';
 $GLOBALS['FW_PACKAGE_NOTES'] = '';
-$GLOBALS['FW_SECURE_NAME'] = '20150318_ruhacking_5509c6e6078992090150318184142';
+$GLOBALS['FW_SECURE_NAME'] = '20150327_whathaveyoubeenworkingon_5514f620b9c3e8636150327061808';
 $GLOBALS['FW_DBHOST'] = '';
 $GLOBALS['FW_DBHOST'] = empty($GLOBALS['FW_DBHOST']) ? 'localhost' : $GLOBALS['FW_DBHOST'];
 $GLOBALS['FW_DBNAME'] = '';
@@ -113,8 +113,8 @@ $GLOBALS['FW_SSL_ADMIN'] = 0;
 $GLOBALS['FW_SSL_LOGIN'] = 0;
 $GLOBALS['FW_CACHE_WP'] = 0;
 $GLOBALS['FW_CACHE_PATH'] = 0;
-$GLOBALS['FW_BLOGNAME'] = 'RU Hacking';
-$GLOBALS['FW_WPROOT'] = '/var/www/';
+$GLOBALS['FW_BLOGNAME'] = 'What Have You Been Working On?';
+$GLOBALS['FW_WPROOT'] = '/var/www/html/';
 $GLOBALS['FW_DUPLICATOR_VERSION'] = '0.5.12';
 $GLOBALS['FW_OPTS_DELETE'] = json_decode('["duplicator_ui_view_state","duplicator_package_active","duplicator_settings"]', true);
 
