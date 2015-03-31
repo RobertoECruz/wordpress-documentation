@@ -101,9 +101,9 @@ $GLOBALS['REPLACE_LIST']
 $GLOBALS['FW_TABLEPREFIX'] = 'wp_';
 $GLOBALS['FW_URL_OLD'] = 'http://ruhacking.me';
 $GLOBALS['FW_URL_NEW'] = '';
-$GLOBALS['FW_PACKAGE_NAME'] = '20150327_whathaveyoubeenworkingon_5514f620b9c3e8636150327061808_archive.zip';
+$GLOBALS['FW_PACKAGE_NAME'] = '20150327_whathaveyoubeenworkingon_551a3a55efa684335150331061029_archive.zip';
 $GLOBALS['FW_PACKAGE_NOTES'] = '';
-$GLOBALS['FW_SECURE_NAME'] = '20150327_whathaveyoubeenworkingon_5514f620b9c3e8636150327061808';
+$GLOBALS['FW_SECURE_NAME'] = '20150327_whathaveyoubeenworkingon_551a3a55efa684335150331061029';
 $GLOBALS['FW_DBHOST'] = '';
 $GLOBALS['FW_DBHOST'] = empty($GLOBALS['FW_DBHOST']) ? 'localhost' : $GLOBALS['FW_DBHOST'];
 $GLOBALS['FW_DBNAME'] = '';
